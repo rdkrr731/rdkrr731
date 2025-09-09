@@ -1,4 +1,4 @@
-# Hi there, I'm Rahul 👋😉
+# Hi there, I'm Rahul 👋
 
 Welcome to my GitHub profile!  
 I’m passionate about building, documenting, and sharing open-source tools, especially in the blockchain, cloud, and node operations space.
