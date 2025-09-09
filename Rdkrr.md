@@ -33,9 +33,9 @@ I’m passionate about building, documenting, and sharing open-source tools, esp
 
 ## 📫 Let’s Connect!
 
-- [LinkedIn](https://www.linkedin.com/in/rdkrr/) <!-- Add your LinkedIn profile URL -->
-- [Twitter](https://www.x.com/rdkrr19) <!-- Add your Twitter/X profile URL -->
-- Email: rahulkumarr731@gmail.com
+-  🖥️ [LinkedIn](https://www.linkedin.com/in/rdkrr/) <!-- Add your LinkedIn profile URL -->
+-  ✖️ [Twitter](https://www.x.com/rdkrr19) <!-- Add your Twitter/X profile URL -->
+-  📨 Email: rahulkumarr731@gmail.com
 
 ---
 
