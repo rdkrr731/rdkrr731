@@ -27,7 +27,7 @@ I’m passionate about building, documenting, and sharing open-source tools, esp
 ## 📈 GitHub Stats
 
 ![rdkrr731's GitHub stats](https://github-readme-stats.vercel.app/api?username=rdkrr731&show_icons=true&theme=github_dark)
-![Alt Text]((https://tenor.com/view/ptkfans-technologia-gif-6800497524531070811))
+
 
 ---
 
